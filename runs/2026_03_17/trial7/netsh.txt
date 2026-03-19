@@ -1,0 +1,28 @@
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Wi-Fi 6E AX211 160MHz
+    GUID                   : 96b07b7b-a3a1-4c55-8153-1008950c1cb9
+    Physical address       : 28:6b:35:68:56:4b
+    Interface type         : Primary
+    State                  : connected
+    SSID                   : GL-AXT1800-015
+    AP BSSID               : e2:a3:47:c2:bf:ce
+    Band                   : 2.4 GHz
+    Channel                : 1
+    Connected Akm-cipher   : [ akm = 00-0f-ac:02, cipher =  00-0f-ac:04 ]
+    Network type           : Infrastructure
+    Radio type             : 802.11ax
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Receive rate (Mbps)    : 258
+    Transmit rate (Mbps)   : 143
+    Signal                 : 92% 
+    Rssi                   : -41
+    Profile                : GL-AXT1800-015 
+    QoS MSCS Configured         : 0
+    QoS Map Configured          : 0
+    QoS Map Allowed by Policy   : 0
+
