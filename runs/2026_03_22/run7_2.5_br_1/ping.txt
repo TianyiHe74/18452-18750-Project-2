@@ -1,0 +1,27 @@
+
+Pinging 192.168.8.100 with 32 bytes of data:
+Reply from 192.168.8.100: bytes=32 time=107ms TTL=128
+Reply from 192.168.8.100: bytes=32 time=16ms TTL=128
+Reply from 192.168.8.100: bytes=32 time=5ms TTL=128
+Reply from 192.168.8.100: bytes=32 time=165ms TTL=128
+Reply from 192.168.8.100: bytes=32 time=25ms TTL=128
+Reply from 192.168.8.100: bytes=32 time=95ms TTL=128
+Reply from 192.168.8.100: bytes=32 time=16ms TTL=128
+Reply from 192.168.8.100: bytes=32 time=36ms TTL=128
+Reply from 192.168.8.100: bytes=32 time=155ms TTL=128
+Reply from 192.168.8.100: bytes=32 time=5ms TTL=128
+Reply from 192.168.8.100: bytes=32 time=10ms TTL=128
+Reply from 192.168.8.100: bytes=32 time=90ms TTL=128
+Reply from 192.168.8.100: bytes=32 time=100ms TTL=128
+Reply from 192.168.8.100: bytes=32 time=212ms TTL=128
+Reply from 192.168.8.100: bytes=32 time=8ms TTL=128
+Reply from 192.168.8.100: bytes=32 time=23ms TTL=128
+Reply from 192.168.8.100: bytes=32 time=43ms TTL=128
+Reply from 192.168.8.100: bytes=32 time=5ms TTL=128
+Reply from 192.168.8.100: bytes=32 time=83ms TTL=128
+Reply from 192.168.8.100: bytes=32 time=59ms TTL=128
+
+Ping statistics for 192.168.8.100:
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 5ms, Maximum = 212ms, Average = 62ms

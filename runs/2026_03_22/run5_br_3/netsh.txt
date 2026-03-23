@@ -1,0 +1,12 @@
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Wi-Fi 6E AX211 160MHz
+    GUID                   : 96b07b7b-a3a1-4c55-8153-1008950c1cb9
+    Physical address       : 28:6b:35:68:56:4b
+    Interface type         : Primary
+    State                  : disconnected
+    Radio status           : Hardware On
+                             Software Off
+
