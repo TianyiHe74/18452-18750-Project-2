@@ -1,0 +1,39 @@
+Connecting to host 192.168.8.100, port 5201
+[  5] local 192.168.8.179 port 59884 connected to 192.168.8.100 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.02   sec  36.1 MBytes   298 Mbits/sec  25936  
+[  5]   1.02-2.00   sec  35.1 MBytes   299 Mbits/sec  25195  
+[  5]   2.00-3.01   sec  36.5 MBytes   302 Mbits/sec  26189  
+[  5]   3.01-4.01   sec  35.4 MBytes   299 Mbits/sec  25419  
+[  5]   4.01-5.00   sec  35.5 MBytes   299 Mbits/sec  25495  
+[  5]   5.00-6.01   sec  36.0 MBytes   299 Mbits/sec  25831  
+[  5]   6.01-7.01   sec  36.0 MBytes   301 Mbits/sec  25832  
+[  5]   7.01-8.01   sec  35.6 MBytes   299 Mbits/sec  25544  
+[  5]   8.01-9.01   sec  35.8 MBytes   301 Mbits/sec  25708  
+[  5]   9.01-10.01  sec  35.8 MBytes   299 Mbits/sec  25701  
+[  5]  10.01-11.01  sec  35.6 MBytes   301 Mbits/sec  25585  
+[  5]  11.01-12.01  sec  36.0 MBytes   302 Mbits/sec  25891  
+[  5]  12.01-13.02  sec  35.7 MBytes   298 Mbits/sec  25663  
+[  5]  13.02-14.00  sec  35.3 MBytes   300 Mbits/sec  25351  
+[  5]  14.00-15.00  sec  35.8 MBytes   300 Mbits/sec  25738  
+[  5]  15.00-16.01  sec  35.9 MBytes   300 Mbits/sec  25771  
+[  5]  16.01-17.00  sec  35.5 MBytes   300 Mbits/sec  25512  
+[  5]  17.00-18.01  sec  36.2 MBytes   301 Mbits/sec  26015  
+[  5]  18.01-19.00  sec  35.5 MBytes   300 Mbits/sec  25486  
+[  5]  19.00-20.01  sec  35.9 MBytes   300 Mbits/sec  25791  
+[  5]  20.01-21.01  sec  35.8 MBytes   300 Mbits/sec  25704  
+[  5]  21.01-22.01  sec  36.0 MBytes   303 Mbits/sec  25860  
+[  5]  22.01-23.00  sec  35.4 MBytes   299 Mbits/sec  25403  
+[  5]  23.00-24.01  sec  36.0 MBytes   300 Mbits/sec  25845  
+[  5]  24.01-25.00  sec  35.5 MBytes   299 Mbits/sec  25483  
+[  5]  25.00-26.01  sec  36.0 MBytes   300 Mbits/sec  25879  
+[  5]  26.01-27.01  sec  35.6 MBytes   298 Mbits/sec  25597  
+[  5]  27.01-28.00  sec  35.5 MBytes   301 Mbits/sec  25472  
+[  5]  28.00-29.01  sec  36.1 MBytes   301 Mbits/sec  25909  
+[  5]  29.01-30.01  sec  35.9 MBytes   300 Mbits/sec  25767  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-30.01  sec  1.05 GBytes   300 Mbits/sec  0.000 ms  0/770572 (0%)  sender
+[  5]   0.00-30.03  sec  1000 MBytes   279 Mbits/sec  0.013 ms  52442/770513 (6.8%)  receiver
+
+iperf Done.

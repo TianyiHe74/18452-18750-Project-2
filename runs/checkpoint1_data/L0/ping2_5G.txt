@@ -1,0 +1,27 @@
+
+Pinging 192.168.8.206 with 32 bytes of data:
+Reply from 192.168.8.206: bytes=32 time=9ms TTL=128
+Reply from 192.168.8.206: bytes=32 time=102ms TTL=128
+Reply from 192.168.8.206: bytes=32 time=112ms TTL=128
+Reply from 192.168.8.206: bytes=32 time=4ms TTL=128
+Reply from 192.168.8.206: bytes=32 time=10ms TTL=128
+Reply from 192.168.8.206: bytes=32 time=251ms TTL=128
+Reply from 192.168.8.206: bytes=32 time=52ms TTL=128
+Reply from 192.168.8.206: bytes=32 time=171ms TTL=128
+Reply from 192.168.8.206: bytes=32 time=65ms TTL=128
+Reply from 192.168.8.206: bytes=32 time=92ms TTL=128
+Reply from 192.168.8.206: bytes=32 time=11ms TTL=128
+Reply from 192.168.8.206: bytes=32 time=6ms TTL=128
+Reply from 192.168.8.206: bytes=32 time=28ms TTL=128
+Reply from 192.168.8.206: bytes=32 time=76ms TTL=128
+Reply from 192.168.8.206: bytes=32 time=104ms TTL=128
+Reply from 192.168.8.206: bytes=32 time=62ms TTL=128
+Reply from 192.168.8.206: bytes=32 time=73ms TTL=128
+Reply from 192.168.8.206: bytes=32 time=84ms TTL=128
+Reply from 192.168.8.206: bytes=32 time=72ms TTL=128
+Reply from 192.168.8.206: bytes=32 time=111ms TTL=128
+
+Ping statistics for 192.168.8.206:
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 251ms, Average = 74ms
